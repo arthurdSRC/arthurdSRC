@@ -1,5 +1,5 @@
 ### Hi there 👋
-Olá , eu me chamo Arthur , Desenvolvedor FrontEnd e entusiasta no mundo da tecnologia , além disso eu amo jogos de FPS e battleroyale e assistir animes.
+Olá, eu me chamo Arthur, desenvolvedor frontend e entusiasta no mundo da tecnologia, além disso eu amo jogos de FPS e battle royale e assistir animes.
 
 ### Stacks
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
