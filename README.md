@@ -10,6 +10,6 @@ Olá, eu me chamo Arthur, desenvolvedor frontend e entusiasta no mundo da tecnol
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdSRC&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arthurdSRC&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=arthurdSRC&label=Profile%20Views&color=6&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
